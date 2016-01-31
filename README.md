@@ -1,4 +1,4 @@
-# go-workshop
+# Workshop CSS tool
 
 This is an educational purpose application.
 
